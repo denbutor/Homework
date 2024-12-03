@@ -1,0 +1,5 @@
+C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.AssemblyInfo.cs
+C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.csproj.CoreCompileInputs.cache
