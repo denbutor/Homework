@@ -3,3 +3,20 @@ C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework
 C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.AssemblyInfoInputs.cache
 C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.AssemblyInfo.cs
 C:\Users\Emin\C# Projects\Homework\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\bin\Debug\net7.0\Homework.DataAccess.deps.json
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\bin\Debug\net7.0\Homework.DataAccess.runtimeconfig.json
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\bin\Debug\net7.0\Homework.DataAccess.dll
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\bin\Debug\net7.0\Homework.DataAccess.pdb
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\bin\Debug\net7.0\Homework.Core.dll
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\bin\Debug\net7.0\Homework.Core.pdb
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.AssemblyInfo.cs
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.csproj.CopyComplete
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.dll
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\refint\Homework.DataAccess.dll
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.pdb
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\Homework.DataAccess.genruntimeconfig.cache
+C:\Users\Emin\OneDrive\Desktop\Homework Project\Homework Project Back\Homework.DataAccess\obj\Debug\net7.0\ref\Homework.DataAccess.dll

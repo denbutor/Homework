@@ -10,4 +10,8 @@
       <ProjectReference Include="..\Homework.DataAccess\Homework.DataAccess.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
+    </ItemGroup>
+
 </Project>

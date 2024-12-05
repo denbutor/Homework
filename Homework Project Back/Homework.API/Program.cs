@@ -1,6 +1,8 @@
 using Homework.Application.Services;
 using Homework.DataAccess;
 using Homework.DataAccess.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,8 +19,8 @@ builder.Services.AddDbContext<HomeworkDbContext>(
         options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(HomeworkDbContext)));
     });
 
-builder.Services.AddScoped<IHomeworksService, HomeworksService>();
-builder.Services.AddScoped<IHomeworksRepository, HomeworksRepository>();
+builder.Services.AddScoped<IHomesService, HomesService>();
+builder.Services.AddScoped<IHomesRepository, HomesRepository>();
 
 var app = builder.Build();
 

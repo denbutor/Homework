@@ -3,12 +3,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Homework.DataAccess;
 
-public class HomeworkDbContext
+public class HomeworkDbContext : DbContext
 {
     public HomeworkDbContext(DbContextOptions<HomeworkDbContext> options) 
         : base(options)
     {
     }
 
-    public DbSet<HomeworkEntity> Homework { get; set; }
+    public DbSet<HomeEntity> Homes { get; set; }
 }
